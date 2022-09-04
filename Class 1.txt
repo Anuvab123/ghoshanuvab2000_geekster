@@ -1,0 +1,85 @@
+1)public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello I am enjoying coding");
+        
+    }
+}
+
+
+2)public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello");
+        System.out.println("I");
+        System.out.println("am");
+        System.out.println("enjoying");
+        System.out.println("coding");
+        
+    }
+}
+
+
+3)public class Main {
+    public static void main(String[] args) {
+        int a=100;
+        int b=8;
+        int c=3;
+        System.out.println("sum="+(a+b+c));
+        System.out.println("product="+(a*b*c));
+        
+    }
+}
+
+
+4)public class Main {
+    public static void main(String[] args) {
+        int a=100;
+        int b=40;
+        System.out.println("difference between a and b ="+(a*b));
+        
+        
+        
+    }
+}
+
+
+5)public class Main {
+    public static void main(String[] args) {
+        System.out.println("*****");
+        System.out.println("*****");
+        System.out.println("*****");
+        System.out.println("*****");
+        System.out.println("*****");
+        System.out.println("*****");
+    }
+}
+
+
+6)public class Main {
+    public static void main(String[] args) {
+        System.out.println("* *");
+        System.out.println("* *");
+        System.out.println("* *");
+        System.out.println("* *");
+        System.out.println("* *");
+        System.out.println("****");
+    }
+}
+
+
+7)public class Main {
+    public static void main(String[] args) {
+        int a=987653;
+        System.out.println("Last digit of the number is="+a%10);
+    }
+}
+
+
+8)public class Main {
+    public static void main(String[] args) {
+        int m=15;
+        int n=4;
+        System.out.println(m+n);
+        System.out.println(m-n);
+        System.out.println(m*n);
+    }
+}
